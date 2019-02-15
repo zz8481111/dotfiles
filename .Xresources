@@ -1,0 +1,75 @@
+Xcursor.theme: Breeze-dark
+!===========================================================================
+! XTerm 
+!===========================================================================
+!Кириллица
+XTerm*utf8Title: true
+XTerm*faceName: Input Mono Narrow
+XTerm*faceSize: 9
+xterm*bolfFont: 
+xterm*scrollBar:        false
+xterm*geometry:         80x45
+xterm*eightBitInput:    false
+xterm*metaSendsEscape:  true
+xterm*colorBDMode:      true
+xterm*boldMode:         on
+xterm*alwaysBoldMode:   false
+xterm*dynamicColors:    on
+xterm*colorMode:        on
+xterm*saveLines:        10000
+!xterm*visualBell:       false
+XTerm*selectToClipboard: true
+!===========================================================================
+! Hemisu Light
+!===========================================================================
+!xterm*colorBD:     #ff0054
+!xterm*background:  #efefef
+!xterm*foreground:  #444444
+!
+!xterm*color0:      #f9f5d7
+!xterm*color1:      #cc241d
+!xterm*color2:      #98971a
+!xterm*color3:      #d79921
+!xterm*color4:      #458588
+!xterm*color5:      #b16286
+!xterm*color6:      #689d6a
+!xterm*color7:      #7c6f64
+!xterm*color8:      #928374
+!xterm*color9:      #9d0006
+!xterm*color10:     #79740e
+!xterm*color11:     #b57614
+!xterm*color12:     #076678
+!xterm*color13:     #8f3f71
+!xterm*color14:     #427b58
+!xterm*color15:     #282828
+
+!===========================================================================
+! ~Monokai dark
+!===========================================================================
+xterm*foreground:   #f8f8f2
+xterm*background:   #272822
+xterm*colorBD:      #f8f8f2
+
+xterm*color0:       #272822
+xterm*color8:       #75715e
+
+xterm*color1:       #f92672
+xterm*color9:       #f92672
+
+xterm*color2:       #a6e22e
+xterm*color10:      #a6e22e
+
+xterm*color3:       #f4bf75
+xterm*color11:      #f4bf75
+
+xterm*color4:       #66d9ef
+xterm*color12:      #66d9ef
+
+xterm*color5:       #ae81ff
+xterm*color13:      #ae81ff
+
+xterm*color6:       #a1efe4
+xterm*color14:      #a1efe4
+
+xterm*color7:       #f8f8f2
+xterm*color15:      #f9f8f5
