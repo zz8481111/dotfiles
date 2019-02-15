@@ -1,0 +1,9 @@
+# ~/.config/openbox/autostart
+nitrogen --restore &
+xfce4-panel &
+
+# раскладка клавиатуры
+setxkbmap -layout us,ru -variant -option grp:shifts_toggle,terminate:ctrl_alt_bksp,caps:shiftlock &
+nm-applet &
+xxkb &
+/usr/lib/notification-daemon-1.0/notification-daemon &
